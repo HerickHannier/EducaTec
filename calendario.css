@@ -8,6 +8,10 @@ body {
     margin: 0%;
 }
 
+.educatecinicio-text:hover{
+    cursor: pointer;
+}
+
 .alfinete{
     margin-top: -70%;
     margin-left: -17%;
