@@ -99,6 +99,8 @@ body {
 }
 
 .educatecinicio-text {
+    text-decoration: none;
+    color: black;
     position: relative;
     font-size: 2rem;
     margin-top: -4%;
@@ -154,3 +156,9 @@ body {
     margin-top: 0.8%;
 
 }
+
+.educatecinicio:hover{
+    cursor: pointer;
+}
+
+
