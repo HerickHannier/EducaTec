@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Quintessential&family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik+Distressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Concert+One&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+body {
+    background: #EDF0F2;
+    margin: 0%;
+}
+
+.alfinete{
+    margin-top: -70%;
+    margin-left: -17%;
+    width: 273.2px;
+    height: 153.6px;
+    position: relative;
+}
+.imgCobra2 {
+    width: auto;
+    height: auto;
+    margin-left: -25%;
+    margin-top: -20%;
+    rotate: -50deg;
+    
+}
+
+.imgCone {
+    width: 176.6px;
+    height: 157px;
+    margin-left: 57%;
+    margin-top: -29%;
+    
+}
+
+.imgCalendario1 {
+    width: 530px;
+    height: 496px;
+    margin-left: 65%;
+    margin-top: -51%;
+    
+}
+
+.imgCobra {
+    width: auto;
+    height: auto;
+    margin-left: 65.5%;
+    margin-top: -37%;
+    
+}
+
+
+
+.card{
+    width: 600px;
+    height: 360px;
+    margin-top: 20%;
+    margin-left: 10%;
+    background: white;
+    border-radius: 30px;
+    border: 3px solid black;
+    position: relative;
+
+}
+
+.container {
+    background: #EDF0F2;
+    width: 100%;
+    height: 85%;
+}
+
+.container2 {
+    background: #EDF0F2;
+    width: 100%;
+    height: 85%;
+}
+
+.text-page1 {
+    position: relative;
+    font-size: 6.7rem;
+    margin-top: -0.7%;
+    margin-left: 10%;
+    font-family: "Quicksand", serif;
+}
+
+.texte-page1 {
+    font-size: 6.7rem;
+    margin-top: -6%;
+    margin-left: 10%;
+    position: relative;
+    font-family: "Quicksand", serif;
+}
+
+.sub-text-page1 {
+    position: relative;
+    font-size: 2rem;
+    margin-top: -5%;
+    margin-left: 10%;
+    font-family: "Quicksand", serif;
+}
+
+.educatecinicio-text {
+    position: relative;
+    font-size: 2rem;
+    margin-top: -4%;
+    margin-left: 17%;
+    font-family: "Quicksand", serif;
+
+}
+
+.tudo {
+    background: #EDF0F2;
+}
+
+.img-educatec {
+    margin-left: 10%;
+    margin-top: 2%;
+    width: 130px;
+    height: 130px;
+}
+
+.sombra{
+    height: 983px;
+    width: 1050px;
+    margin-left: 28%;
+    margin-top: -47%;
+}
+
+.celular{
+    position: relative;
+    margin-left: 66%;
+    margin-top: -30%;
+}
+
+.text-card{
+    text-align: center;
+    padding-top: 7%;
+    font-size: 2rem;
+    font-family: "Quicksand", serif;;
+
+}
+
+.copy{
+    width: 100%;
+    height: 5%;
+    background: #00BF63;
+}
+
+.copy-text{
+    text-align: center;
+    font-size: 1.1rem;
+    color: white;
+    font-family: "Quicksand", serif;
+    padding-top: 0.1%;
+    margin-top: 0.8%;
+
+}
