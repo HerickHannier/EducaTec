@@ -7,7 +7,7 @@
         margin: 0;
     }
 
-    .img2-page1{
+    .img2-page1 {
         position: relative;
         margin-left: 70.5%;
         margin-top: -18%;
@@ -41,20 +41,20 @@
         position: relative;
     }
 
-    .EducaTecText:hover{
+    .EducaTecText:hover {
         cursor: pointer;
     }
 
-    .text-page-1{
+    .text-page-1 {
         font-family: "Zen Dots", sans-serif;
         color: white;
         font-size: 5.5rem;
         margin-left: 10%;
-        text-shadow:  0 0 12px #fff;
+        text-shadow: 0 0 12px #fff;
     }
 
-    .coners{
-        background:#6710FF;
+    .coners {
+        background: #6710FF;
         margin-left: 10%;
         width: 55%;
         height: 13px;
@@ -63,26 +63,26 @@
         margin-bottom: 1%;
     }
 
-    .text2-page-1{
+    .text2-page-1 {
         font-family: "Zen Dots", sans-serif;
         color: #FF4FF3;
         font-size: 2rem;
         margin-top: -7.5%;
         margin-left: 10%;
-        text-shadow:  0 0 12px pink;
+        text-shadow: 0 0 12px pink;
     }
 
-    .img-page1{
+    .img-page1 {
         position: relative;
         margin-left: 70%;
         margin-top: -20%;
     }
 
-    .container2{
+    .container2 {
         height: 100%;
     }
 
-    .faixa{
+    .faixa {
         margin-top: 15%;
         width: 100%;
         height: 450px;
@@ -90,7 +90,7 @@
         position: relative;
     }
 
-    .card1{
+    .card1 {
         background: #281549;
         border: 5px solid white;
         border-radius: 25px;
@@ -101,7 +101,7 @@
         position: relative;
     }
 
-    .card2{
+    .card2 {
         background: #ffffff;
         border: 5px solid rgb(0, 0, 0);
         border-radius: 50px;
@@ -113,30 +113,30 @@
         box-shadow: 12px -12px 0px #470BB0;
     }
 
-    .tudo{
+    .tudo {
         background-color: #281549;
     }
 
-    .img-mapa{
+    .img-mapa {
         margin-left: 2.4%;
         margin-top: 3.2%;
         border-radius: 15px;
     }
 
-    .text-card{
+    .text-card {
         text-align: center;
         font-size: 2.5rem;
         font-family: "Quicksand", serif;
     }
 
-    .copy{
+    .copy {
         margin-top: 13%;
         width: 100%;
         height: 50px;
         background: #6710FF;
     }
 
-    .copy-text{
+    .copy-text {
         text-align: center;
         font-size: 1.1rem;
         color: white;
