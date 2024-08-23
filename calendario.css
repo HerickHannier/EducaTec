@@ -7,7 +7,9 @@ body {
     background: #EDF0F2;
     margin: 0%;
 }
-
+a{
+    text-decoration: none;
+}
 .alfinete{
     margin-top: -70%;
     margin-left: -17%;
