@@ -32,6 +32,10 @@ body {
 
 }
 
+a{
+    text-decoration: none;
+}
+
 .EducaTecText {
     font-family: "Quicksand", serif;
     font-size: 1.5rem;
